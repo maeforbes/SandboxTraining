@@ -1,2 +1,0 @@
-# SandboxTraining
-Created with CodeSandbox
